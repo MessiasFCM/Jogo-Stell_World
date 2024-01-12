@@ -17,11 +17,9 @@ Bem-vindo ao Stell World, um emocionante RPG desenvolvido em Java com o NetBeans
 - Possui histórias de narrativas personalizadas para cada parte do jogo e personagem.
 
 ### Algumas Imagens:
-![1](https://github.com/MessiasFCM/Jogo-Stell_World/assets/79658287/b4e7fbe1-80a8-40a4-b4e9-0165f3b218c4)
-*Legenda: Tela inicial*
-![3](https://github.com/MessiasFCM/Jogo-Stell_World/assets/79658287/fd5704ed-c8c5-47bf-8ac1-92271dabf920)
-![5](https://github.com/MessiasFCM/Jogo-Stell_World/assets/79658287/2c63b255-16d3-47d3-9b7c-1c621ffbda04)
-![4](https://github.com/MessiasFCM/Jogo-Stell_World/assets/79658287/71797005-8cda-47f5-9b24-dc48a3b30c0a)
+![3](https://github.com/MessiasFCM/Jogo-Stell_World/assets/79658287/fd5704ed-c8c5-47bf-8ac1-92271dabf920 | width=100)
+![5](https://github.com/MessiasFCM/Jogo-Stell_World/assets/79658287/2c63b255-16d3-47d3-9b7c-1c621ffbda04 | width=100)
+![4](https://github.com/MessiasFCM/Jogo-Stell_World/assets/79658287/71797005-8cda-47f5-9b24-dc48a3b30c0a | width=100)
 
 
 ### Como Contribuir:
