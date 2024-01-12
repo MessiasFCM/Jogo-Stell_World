@@ -1,4 +1,4 @@
-**Stell World - RPG Java**
+# **Stell World - RPG Java**
 
 Bem-vindo ao Stell World, um emocionante RPG desenvolvido em Java com o NetBeans! Este projeto oferece uma experiência única, repleta de escolhas envolventes, batalhas estratégicas e uma narrativa rica. Aqui está tudo o que você precisa saber para começar:
 
